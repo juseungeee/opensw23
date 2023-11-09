@@ -4,4 +4,5 @@
 void goo() {
 
     printf("hello goo\n");
+    printf("hello another goo\n");
 }
